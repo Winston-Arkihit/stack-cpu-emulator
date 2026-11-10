@@ -1,4 +1,4 @@
-# Prodva stack processor
+# toy stack processor with interpreter
 
 Project folders:
 
